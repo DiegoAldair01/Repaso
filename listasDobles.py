@@ -55,3 +55,4 @@ class DoubleLinkedList:
         for i in range(position):
             currentNode = currentNode.next
         return currentNode.value
+    
